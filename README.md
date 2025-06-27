@@ -96,5 +96,5 @@ It is **not officially supported by Dynatrace**, and no future guarantees are im
 ## Created By
 
 **Abhishek Satpathy**  
-_Dynatrace Consultant | MCT_  
-📧 abhishek.satpathy@dynatrace.com
+Senior Dynatrace Consultant
+www.abhisat.com
